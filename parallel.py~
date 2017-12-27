@@ -12,7 +12,7 @@ from math import sqrt
 from joblib import Parallel, delayed
 from joblib.pool import has_shareable_memory
 
-ncpus = int(sys.argv[1])
+ncpus = sys.argv[1]
 def square(x):
     return sqrt(x)
   
