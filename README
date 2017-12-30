@@ -1,0 +1,5 @@
+Testing joblib tool.
+Edit: 
+-serial or parallel;
+-the number of threads; 
+-the number of frequences you want to run. 
